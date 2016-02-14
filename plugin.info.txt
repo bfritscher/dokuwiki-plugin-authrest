@@ -1,0 +1,7 @@
+base   authrest
+author Boris Fritscher
+email
+date   2016-02-13
+name   REST Auth Plugin
+desc   Provides authentication against a REST API backend
+url
